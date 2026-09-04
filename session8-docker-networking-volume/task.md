@@ -91,7 +91,8 @@ docker run -d --name frontend-container --network frontend-net alpine sleep 3600
    *Result:* 🔒 **`ping: bad address 'database-container'` (ISOLATED - Expected)**
 
 ### 📸 Screenshot: Task 1 Container Networking
-![Task 1 - Container Networking](screenshots/task1-networking.png)
+
+<img width="950" height="1004" alt="image" src="https://github.com/user-attachments/assets/958d824a-de1a-48dd-845e-d0a18419d45b" />
 
 ---
 
@@ -122,7 +123,8 @@ host
 ```
 
 ### 📸 Screenshot: Task 2 Host Network
-![Task 2 - Host Network](screenshots/task2-host-network.png)
+
+<img width="950" height="528" alt="image" src="https://github.com/user-attachments/assets/20692913-4dbf-42c6-8707-2bfb9705aa5a" />
 
 ---
 
@@ -149,7 +151,7 @@ curl http://localhost:8089
 ```
 
 ### 📸 Screenshot: Initial Webpage (`Hello students`)
-![Task 3 - Bind Mount Initial](screenshots/task3-bind-mount-initial.png)
+<img width="1562" height="1092" alt="image" src="https://github.com/user-attachments/assets/4008ac70-6f3b-4e2d-a7f2-4a7fb25eb95a" />
 
 ---
 
@@ -164,7 +166,8 @@ curl http://localhost:8089
 ```
 
 ### 📸 Screenshot: Live Updated Webpage
-![Task 3 - Bind Mount Updated](screenshots/task3-bind-mount-updated.png)
+
+<img width="1788" height="1236" alt="image" src="https://github.com/user-attachments/assets/b3b07926-52af-4a27-bdd3-864b4e96be39" />
 
 ---
 
