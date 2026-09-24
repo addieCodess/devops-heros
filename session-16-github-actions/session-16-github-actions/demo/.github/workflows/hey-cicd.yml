@@ -6,10 +6,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print message
-        run: echo "Hello from GitHub Actions!"
+        run: echo "Aadhya!"
       - name: Show date
         run: date
       - name: Show operating sygit add.stem
         run: uname -a
-      - name: My Name
-        run: echo "Aadhya"
+  
