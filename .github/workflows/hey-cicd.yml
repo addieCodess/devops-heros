@@ -9,7 +9,7 @@ jobs:
         run: echo "Hello from GitHub Actions!"
       - name: Show date
         run: date
-      - name: Show operating sygit add.stem
+      - name: Show operating system
         run: uname -a
   secrets-demo:
     runs-on: ubuntu-latest
